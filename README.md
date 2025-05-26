@@ -29,8 +29,8 @@ If you don't see your model in this list, you problably have `pissarro` with `Me
 ## Variants quirks
 | ROM | Other models | `2201116SC`|`2201116SR` |
 |-:|-|-|-|
-| TKCEUXM<br>TKCMIXM<br>TKCIDXM<br>TKCRUXM<br>TKCTWXM<br>TKCTRXM || Broken NFC | Broken NFC & eSIM |
-| TKCCNXM | Broken NFC || Broken FeliCa & eSIM |
+| TKCEUXM<br>TKCMIXM<br>TKCIDXM<br>TKCRUXM<br>TKCTWXM<br>TKCTRXM || Broken NFC | Broken NFC<br>Broken eSIM |
+| TKCCNXM | Broken NFC || Broken FeliCa<br>Broken eSIM |
 | TKCJPXM | Broken NFC |||
-| AOSP (pre-2024) || Broken NFC | Broken NFC & eSIM |
-| AOSP (2024-now) ||| Broken  eSIM |
+| AOSP (pre-2024) || Broken NFC | Broken NFC<br>Broken eSIM |
+| AOSP (2024-now) ||| Broken eSIM |
