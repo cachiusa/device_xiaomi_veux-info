@@ -1,6 +1,8 @@
-# veux/peux
+# Info about Xiaomi POCO X4 Pro 5G / Redmi Note 11 Pro 5G / Redmi Note 11 Pro+ 5G / Redmi Note 11E Pro
 
 ## Specifications
+
+<img align="right" alt="Redmi Note 11 Pro 5G" width="400" src="https://raw.githubusercontent.com/PixelExperience/official_devices/master/images/veux.png" />
 
 | Device | Redmi Note 11 Pro 5G<br>Redmi Note 11 Pro+ 5G<br>Redmi Note 11E Pro<br>POCO X4 Pro 5G |
 |-:|:-|
