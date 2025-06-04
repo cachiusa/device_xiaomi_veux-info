@@ -25,12 +25,12 @@ If you don't see your model in this list, you problably have `pissarro` with `Me
 
 | Model | Market name | Market region | Codename | NFC | Rear camera | eSIM |
 |-|-|-|-|-|-|-|
-| 2201116SG | Redmi Note 11 Pro 5G | Global/RoW | veux | pn557 | 108MP | ❌ | 
-| 2201116PG | POCO X4 Pro 5G | Global/RoW | veux | pn557 | 108MP | ❌ | 
-| 2201116SI | Redmi Note 11 Pro+ 5G | India | peux | ❌ | 108MP | ❌ | 
-| 2201116PI | POCO X4 Pro 5G | India | peux | ❌ | 64MP | ❌ | 
-| 2201116SR | Redmi Note 11 Pro 5G | Japan | veux | sn100 | 108MP | ✔️ | 
-| 2201116SC | Redmi Note 11E Pro | China | veux | sn100 | 108MP | ❌ | 
+| 2201116SG | Redmi Note 11 Pro 5G | Global/RoW | veux | pn557 | 108MP | ❌ |
+| 2201116PG | POCO X4 Pro 5G | Global/RoW | veux | pn557 | 108MP | ❌ |
+| 2201116SI | Redmi Note 11 Pro+ 5G | India | peux | ❌ | 108MP | ❌ |
+| 2201116PI | POCO X4 Pro 5G | India | peux | ❌ | 64MP | ❌ |
+| 2201116SR | Redmi Note 11 Pro 5G | Japan | veux | sn100 | 108MP | ✔️ |
+| 2201116SC | Redmi Note 11E Pro | China | veux | sn100 | 108MP | ❌ |
 
 ## Variants quirks
 | ROM | Other models | `2201116SC` | `2201116SR` |
