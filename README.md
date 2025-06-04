@@ -13,7 +13,10 @@
 | GPU | Qualcomm Adreno 619 |
 | Network | 2G GSM, 3G UMTS, 3G CDMA2000, 4G LTE, 5G NR |
 | Storage | 64GB / 128GB / 256GB (UFS 2.2) |
-| Screen | 6.67 in<br>1080 x 2400 (395 PPI)<br>Super AMOLED (max. 120 Hz) |
+| Screen | 169.4 mm (6.67 in)<br>1080 x 2400 (395 PPI)<br>AMOLED DotDisplay<br>Max. 120 Hz |
+| Bluetooth	| 5 with A2DP + aptX |
+| Wi-Fi	| 802.11 a/b/g/n/ac, dual-band<br>Wi-Fi Direct|
+| Cameras | 108 MP or 64 MP (wide), LED flash<br>8 MP (ultrawide), LED flash<br>2 MP (macro), LED flash<br>16 MP, No flash |
 | Dimensions | 164.2 x 76.1 x 8.1 mm |
 | Battery | Non-removable Li-Po 5000 mAh |
 
