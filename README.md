@@ -11,7 +11,7 @@
 | CPU | 2x Kryo 660 Gold 2.2GHz<br>6x Kryo 660 Silver 1.7GHz |
 | Architecture | arm64 |
 | GPU | Qualcomm Adreno 619 |
-| Network | 2G GSM, 3G UMTS, 3G CDMA2000, 4G LTE, 5G NR |
+| Network | 2G GSM<br>3G UMTS / CDMA2000<br>4G LTE<br>5G NR |
 | Storage | 64GB / 128GB / 256GB (UFS 2.2) |
 | Screen | 169.4 mm (6.67 in)<br>1080 x 2400 (395 PPI)<br>AMOLED DotDisplay<br>Max. 120 Hz |
 | Bluetooth	| 5 with A2DP + aptX |
@@ -19,6 +19,7 @@
 | Cameras | 108 MP or 64 MP (wide), LED flash<br>8 MP (ultrawide), LED flash<br>2 MP (macro), LED flash<br>16 MP, No flash |
 | Dimensions | 164.2 x 76.1 x 8.1 mm |
 | Battery | Non-removable Li-Po 5000 mAh |
+| Shipped<br>Android<br>version | 11 |
 
 # Variants
 If you don't see your model in this list, you problably have `pissarro` with `Mediatek Dimensity 920` SoC
