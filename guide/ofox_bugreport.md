@@ -25,7 +25,7 @@
 6. A list of precisely __all the steps that you took__, which led to this situation
     - In other words, how can we reproduce the problem?
 7. Copies of the __OrangeFox recovery logs__ which show the problem
-    - See (II.) below for how to do this.
+    - See (III.) below for how to do this.
     - It is best to take the logs immediately after you experience the problem.
     - Do NOT post a copy of "lastrecoverylog.log" or any other log, if it does not show the problem.
     - **NOTE**: if you do not supply logs, it will be impossible to help you.
