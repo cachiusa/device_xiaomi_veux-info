@@ -1,6 +1,6 @@
 # How to make a proper report of problems (or bugs)
 
-## 0. Before reporting any problem,
+## I. Before reporting any problem,
 
 1. Please first read the guides and FAQs above.
     - Why? Because _it is unlikely that you are the first person in the world that has experienced this problem_, so it is likely that there will already be an answer in the guides and FAQ. This then frees us to focus on problems that have never been reported before.
@@ -11,7 +11,7 @@
 3. Make sure to first search the groups and threads for that specific problem.
     - Why? Because _it may already have been reported_ and there may already be several answers for the problem. 
 
-## 1. What you MUST provide
+## II. What you MUST provide
 
 1. The name, and code name, and hardware specifications of __your device__
     - (eg, "Poco F3, alioth, 6GB RAM")
@@ -25,7 +25,7 @@
 6. A list of precisely __all the steps that you took__, which led to this situation
     - In other words, how can we reproduce the problem?
 7. Copies of the __OrangeFox recovery logs__ which show the problem
-    - See (2.) below for how to do this.
+    - See (II.) below for how to do this.
     - It is best to take the logs immediately after you experience the problem.
     - Do NOT post a copy of "lastrecoverylog.log" or any other log, if it does not show the problem.
     - **NOTE**: if you do not supply logs, it will be impossible to help you.
@@ -34,7 +34,8 @@
     - Provide a link for the download of that ROM
 
 Please understand that we are not sitting next to you, observing what is going on. We will only know what you tell us.
-### 1.1. What is NOT HELPFUL
+
+### What is NOT HELPFUL
 
 1. Posting a screenshot
     - it will simply be deleted; instead, post the logs
@@ -54,7 +55,7 @@ Please understand that we are not sitting next to you, observing what is going o
     - release version number,
     - whether it is official or unofficial
 
-## 2. How do I take the OrangeFox logs for posting?
+## II. How do I take the OrangeFox logs for posting?
 
 There are a variety of ways:
 
@@ -74,6 +75,6 @@ There are a variety of ways:
 - Send the contents of the device's `/sdcard/Fox/logs/` folder
     - Put them all in a single zip archive - as long as at least one of them contains a log showing the problem that you have encountered.
 
-## 3. Last steps
+## III. Last steps
 
 - Open an issue at https://github.com/cachiusa/orangefox_device_xiaomi_veux/issues/new (you will need a GitHub account)
