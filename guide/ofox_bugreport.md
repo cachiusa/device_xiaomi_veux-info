@@ -55,7 +55,7 @@ Please understand that we are not sitting next to you, observing what is going o
     - release version number,
     - whether it is official or unofficial
 
-## II. How do I take the OrangeFox logs for posting?
+## III. How do I take the OrangeFox logs for posting?
 
 There are a variety of ways:
 
@@ -75,6 +75,6 @@ There are a variety of ways:
 - Send the contents of the device's `/sdcard/Fox/logs/` folder
     - Put them all in a single zip archive - as long as at least one of them contains a log showing the problem that you have encountered.
 
-## III. Last steps
+## IV. Last steps
 
 - Open an issue at https://github.com/cachiusa/orangefox_device_xiaomi_veux/issues/new (you will need a GitHub account)
